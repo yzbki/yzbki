@@ -1,19 +1,20 @@
-- 👋 Hi, I’m @yzbki AKA
-        Mustafa Al-Youzbaki
+# Mustafa Al-Youzbaki
+A computing graduate with a passion for the intersection of technology and the human mind.
+I love learning new things and turning ideas into something that people can actually use.
 
-- 👀 I’m interested in ...
-        studying topics related to cognitive science including psychology, philosophy, neuroscience, and computing.
-        I also love keeping up with new technologies and how we can use them to improve societal quality of life.
+## About Me
+- 🎓 Bachelor of Computing (Hons.), Specializing in Cognitive Science - Queen's University, 2026
+- 📱 Built and shipped **Nidham**, a checklist management app available on the Google Play Store
+- 🤖 Interested in artificial intelligence, software development, and cognitive science.
+- 🌍 Based in the Greater Toronto Area - open to new opportunities
+- 🌐 [yzbki.com](https://yzbki.com)
 
-- 🌱 I’m currently learning ...
-        Computing with a Cognitive Science specialization (BCmpH) at Queen's University in Kingston, Ontario.
-      
-- 📫 You can reach me at...
-        mus.alyouzbaki@gmail.com
+## Skills
+**Languages:** Kotlin, Python, C++, Java, JavaScript, TypeScript, SQL, HTML/CSS
 
-- 🌐 Visit my website at...
-        yzbki.com
-<!---
-MustafaAlyouzbaki/MustafaAlyouzbaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tools & Frameworks:** Jetpack Compose, Firebase, OpenAI API, PyTorch, NumPy, Git
+
+**Languages:** English, Arabic, French
+
+## Contact
+📫 mus.alyouzbaki@gmail.com
