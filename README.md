@@ -1,5 +1,6 @@
 # Mustafa Al-Youzbaki
 A computing graduate with a passion for the intersection of technology and the human mind.
+
 I love learning new things and turning ideas into something that people can actually use.
 
 ## About Me
@@ -7,7 +8,7 @@ I love learning new things and turning ideas into something that people can actu
 - 📱 Built and shipped **Nidham**, a checklist management app available on the Google Play Store
 - 🤖 Interested in artificial intelligence, software development, and cognitive science.
 - 🌍 Based in the Greater Toronto Area - open to new opportunities
-- 🌐 [yzbki.com](https://yzbki.com)
+- 🌐 Visit my website at [yzbki.com](https://yzbki.com)
 
 ## Skills
 **Languages:** Kotlin, Python, C++, Java, JavaScript, TypeScript, SQL, HTML/CSS
