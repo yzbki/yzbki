@@ -5,7 +5,7 @@ I love learning new things and turning ideas into something that people can actu
 
 ## About Me
 - 🎓 Bachelor of Computing (Hons.), Specializing in Cognitive Science - Queen's University, 2026
-- 📱 Built and shipped **Nidham**, a checklist management app available on the Google Play Store
+- 📱 Built and shipped **Nidham**, a checklist management app available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.youzbaki.nidham)
 - 🤖 Interested in artificial intelligence, software development, and cognitive science
 - 🌍 Based in the Greater Toronto Area - open to new opportunities
 - 🌐 Visit my website at [yzbki.com](https://yzbki.com)
